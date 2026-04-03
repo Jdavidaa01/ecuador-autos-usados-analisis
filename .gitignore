@@ -1,0 +1,20 @@
+# Datos
+data/
+*.zip
+
+# Kaggle
+kaggle.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
